@@ -93,10 +93,10 @@ https://kubuntu.org/alternative-downloads/
 ### 3.2 – Fontes do Sistema:
 Global Themes: <br/>
 ✔ We10XOS-dark <br/>
-●   <br/>
-●   <br/>
-●   <br/>
-●   <br/>
+●  A <br/>
+●  B <br/>
+●  C <br/>
+●  D <br/>
 
 
 Application Style: <br/>
