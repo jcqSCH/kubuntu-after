@@ -25,8 +25,10 @@ https://kubuntu.org/alternative-downloads/
 	sudo apt install kubuntu-restricted-extras -y && 
 	sudo apt install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
 	sudo apt install git-all -y && 
-	sudo apt install krusader -y && 
 	sudo apt install bleachbit -y && 
+	sudo apt install krusader -y && 
+	sudo apt install kblocks -y && 
+	sudo apt install ksudoku -y && 
 
 	sudo apt update && 
 
