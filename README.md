@@ -91,37 +91,32 @@ https://kubuntu.org/alternative-downloads/
 <br/>
 
 ### 3.2 – Fontes do Sistema:
-Global Themes:
-
-✔ We10XOS-dark
-● 
-● 
-● 
-● 
-● 
-● 
-● 
-● 
+Global Themes: <br/>
+✔ We10XOS-dark <br/>
+●   <br/>
+●   <br/>
+●   <br/>
+●   <br/>
 
 
-Application Style:
-✔ Breeze
+Application Style: <br/>
+✔ Breeze <br/>
 
-Application Style:
-✔ ChromeOSLight
+Application Style: <br/>
+✔ ChromeOSLight <br/>
 
-Window Decorations:
-✔ Breeze
+Window Decorations: <br/>
+✔ Breeze <br/>
 
-Fonts:
-✔ Inter
-✔ Maax Mono
+Fonts: <br/>
+✔ Inter <br/>
+✔ Maax Mono <br/>
 
-Icons:
-✔ Willow Light
+Icons: <br/>
+✔ Willow Light <br/>
 
-Cursors:
-✔ Vimix Cursors
+Cursors: <br/>
+✔ Vimix Cursors <br/>
 
 <br/>
 
