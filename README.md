@@ -80,7 +80,12 @@ https://kubuntu.org/alternative-downloads/
 
 ## 3 ➜ SETTINGS
 
-### 3.1 – Plank:
+### 3.1 – Remember:
+> Disable Wallet application
+> Enable 2 clicks to open files
+> Enable Num Lock by default
+
+### 3.2 – Plank:
 Download themes: https://github.com/dabrowski-adam/plank-themes
 
 |  SETTINGS        |             …             |
@@ -93,7 +98,7 @@ Download themes: https://github.com/dabrowski-adam/plank-themes
 
 <br/>
 
-### 3.2 – Fontes do Sistema:
+### 3.3 – Fontes do Sistema:
 |  Configurações   |             …             |
 |       ---        |            ---            |
 |  Geral:          |  Segoe WP 14              |
@@ -107,12 +112,12 @@ Download themes: https://github.com/dabrowski-adam/plank-themes
 
 <br/>
 
-### 3.3 – Barra Superior:
+### 3.4 – Barra Superior:
 >**Ordem:** Menu de Aplicativos, Gerenciador de Tarefas com Ícones, Lixeira, Área de Notificação, Bloquear/Encerrar, Relógio, Área de Trabalho
 
 <br/>
 
-### 3.4 – Spotify:
+### 3.5 – Spotify:
 	sudo kate /usr/share/applications/spotify.desktop
 >**Substituir:** Exec=spotify %U <br/>
 >**Por:** Exec=spotify %U --force-device-scale-factor=1.25
