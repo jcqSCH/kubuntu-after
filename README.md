@@ -1,8 +1,7 @@
 # KUBUNTU 22.04.1 LTS: after install
-Things to do after installing Kubuntu Operating System. <br/>
-Tested version: Kubuntu 22.04.1 LTS
-<br/>
-https://kubuntu.org/alternative-downloads/
+🧐 Things to do after installing Kubuntu Operating System. <br/>
+✅ Tested version: Kubuntu 22.04.1 LTS <br/>
+⏬ https://kubuntu.org/alternative-downloads/
 
 <br/>
 
