@@ -83,9 +83,9 @@ https://kubuntu.org/alternative-downloads/
 ## 3 ➜ SETTINGS
 
 ### 3.1 – Remember:
-> Disable Wallet application
-> Enable 2 clicks to open files
-> Enable Num Lock by default
+- Disable Wallet application
+- Enable 2 clicks to open files
+- Enable Num Lock by default
 
 ### 3.2 – Plank:
 Download themes: https://github.com/dabrowski-adam/plank-themes
