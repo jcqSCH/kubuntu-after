@@ -91,12 +91,15 @@ https://kubuntu.org/alternative-downloads/
 <br/>
 
 ### 3.2 – Fontes do Sistema:
-Global Themes: <br/>
-✔ We10XOS-dark <br/>
-●  A <br/>
-●  B <br/>
-●  C <br/>
-●  D <br/>
+Global Themes:			<br/>
+✔ We10XOS-dark			<br/>
+● ChromeOS-dark			<br/>
+● Willow Desktop (Light)	<br/>
+● Layan				<br/>
+● Orchis-dark			<br/>
+● Itchy				<br/>
+● Scratchy			<br/>
+● Win11OS-Nord			<br/>
 
 
 Application Style: <br/>
