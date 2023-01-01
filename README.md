@@ -83,13 +83,49 @@ https://kubuntu.org/alternative-downloads/
 ## 3 ➜ SETTINGS
 
 ### 3.1 – To do:
-- Disable Wallet application;
+- Disable screen edges;
+- Disable wallet application;
 - Enable 2 clicks to open files;
 - Enable Num Lock by default;
 
 <br/>
 
-### 3.2 – Plank:
+### 3.2 – Fontes do Sistema:
+Global Themes:
+
+✔ We10XOS-dark
+● 
+● 
+● 
+● 
+● 
+● 
+● 
+● 
+
+
+Application Style:
+✔ Breeze
+
+Application Style:
+✔ ChromeOSLight
+
+Window Decorations:
+✔ Breeze
+
+Fonts:
+✔ Inter
+✔ Maax Mono
+
+Icons:
+✔ Willow Light
+
+Cursors:
+✔ Vimix Cursors
+
+<br/>
+
+### 3.3 – Plank:
 Download themes: https://github.com/dabrowski-adam/plank-themes
 
 |  SETTINGS        |             …             |
@@ -99,20 +135,6 @@ Download themes: https://github.com/dabrowski-adam/plank-themes
 |  Zoom:           |  125                      |
 
 >**Ordem:** Dolphin, Terminal, Spotify, Firefox, Chrome, VS Code, KCalc, Writer, Impress, KSysGuard, System Settings
-
-<br/>
-
-### 3.3 – Fontes do Sistema:
-|  Configurações   |             …             |
-|       ---        |            ---            |
-|  Geral:          |  Segoe WP 14              |
-|  Largura fixa:   |  Courier 10 Pitch 16      |
-|  Pequena:        |  Segoe WP 13              |
-|  Barra:          |  Segoe WP 13              |
-|  Menu:           |  Segoe WP 14              |
-|  Título:         |  Segoe WP 14 ( negrito )  |
-|        …         |             …             |
-|  Anti-aliasing   | Habilitado, RGB, Leve     |
 
 <br/>
 
