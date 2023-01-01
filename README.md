@@ -40,7 +40,6 @@ https://kubuntu.org/alternative-downloads/
 
 	sudo apt update && 
 
-	# sudo apt install numix-kde-theme numix-icon-theme-circle numix-icon-theme-square -y && # NO SUPPORT
 	sudo apt install numix-icon-theme numix-icon-theme-circle -y && 
 	sudo apt install grub-customizer -y && 
 	sudo apt install plank -y && 
@@ -53,7 +52,7 @@ https://kubuntu.org/alternative-downloads/
 
 <br/>
 
-### 2.1 ➜ REALTEK RTL8821CU WI-FI DRIVER
+### 2.1 – REALTEK RTL8821CU WI-FI DRIVER
 	sudo apt install build-essential dkms git-all bc -y 
 	
 	# OPEN DRIVER FOLDER IN TERMINAL #
@@ -69,7 +68,7 @@ https://kubuntu.org/alternative-downloads/
 
 <br/>
 
-### 2.2 ➜ WPS OFFICE TRANSLATION PT-BR
+### 2.2 – WPS OFFICE TRANSLATION PT-BR
 	# OPEN TRANSLATION FOLDER IN TERMINAL #
 	
 	bash install.sh
