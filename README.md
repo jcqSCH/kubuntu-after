@@ -1,7 +1,7 @@
 # KUBUNTU 22.04.1 LTS: after install
-🧐 Things to do after installing Kubuntu Operating System. <br/>
-✅ Tested version: Kubuntu 22.04.1 LTS <br/>
-⏬ https://kubuntu.org/alternative-downloads/
+Things to do after installing Kubuntu Operating System. <br/>
+Tested version: Kubuntu 22.04.1 LTS <br/>
+https://kubuntu.org/alternative-downloads/
 
 <br/>
 
@@ -63,7 +63,7 @@
 
 - Source 1: https://github.com/brektrou/rtl8821CU
 - Source 2: https://www.youtube.com/watch?v=tyLMzIAxj-4
-- Source 3: https://github.com/jcqSCH/kubuntu-after/blob/master/Driver_RTL8821CU_RAW.7z
+- Source 3: https://github.com/jcqSCH/kubuntu-after/blob/main/ZIP_Driver_RTL8821CU_RAW.7z
 
 <br/>
 
@@ -74,7 +74,7 @@
 
 - Source 1: https://github.com/vaamonde/pt_br-wpsoffice
 - Source 2: https://www.youtube.com/watch?v=PzIgNdJDdFE
-- Source 3: https://github.com/jcqSCH/kubuntu-after/blob/master/Translation_WPS_Office_PT-BR.7z
+- Source 3: https://github.com/jcqSCH/kubuntu-after/blob/main/ZIP_Translation_WPS_Office_PT-BR.7z
 
 <br/>
 
