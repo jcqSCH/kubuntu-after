@@ -19,9 +19,9 @@ https://kubuntu.org/alternative-downloads/
 	sudo apt update && 
 
 	# sudo apt install kde-l10n-ptbr -y &&			# ALREADY INCLUDED IN KUBUNTU 22.04
-	# sudo apt install libreoffice-l10n-pt-br -y &&		# ALREADY INCLUDED IN KUBUNTU 22.04
-	# sudo apt install libreoffice-style-sifr -y &&		# ALREADY INCLUDED IN KUBUNTU 22.04
 	# sudo apt install software-properties-common -y &&	# ALREADY INCLUDED IN KUBUNTU 22.04
+	sudo apt install libreoffice-l10n-pt-br -y && 
+	sudo apt install libreoffice-style-sifr -y && 
 	sudo apt install kubuntu-restricted-extras -y && 
 	sudo apt install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
 	sudo apt install git-all -y && 
@@ -87,6 +87,7 @@ https://kubuntu.org/alternative-downloads/
 - Disable wallet application;
 - Enable 2 clicks to open files;
 - Enable Num Lock by default;
+- Enable New Session when restarting system;
 
 <br/>
 
